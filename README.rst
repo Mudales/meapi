@@ -52,7 +52,7 @@ ________________________
 
 .. code-block:: bash
 
-    git clone https://github.com/david-lev/meapi.git
+    git clone https://github.com/mudales/meapi.git
     cd meapi && python3 setup.py install
 
 .. end-installation
